@@ -215,4 +215,4 @@ Iron is provided as a complete free version with all features and updates includ
 Take control of your browsing experience today! **Download Iron for free and enjoy a safer, faster internet.**
 
 ---
-**Last updated:** 2026-10-04 17:22:15 UTC
+**Last updated:** 2026-10-04 21:05:29 UTC
